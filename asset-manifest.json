@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mondo-travel/static/css/main.74861dc2.css",
+    "main.js": "/mondo-travel/static/js/main.ab0a05a1.js",
+    "static/js/453.5fbf1212.chunk.js": "/mondo-travel/static/js/453.5fbf1212.chunk.js",
+    "index.html": "/mondo-travel/index.html",
+    "main.74861dc2.css.map": "/mondo-travel/static/css/main.74861dc2.css.map",
+    "main.ab0a05a1.js.map": "/mondo-travel/static/js/main.ab0a05a1.js.map",
+    "453.5fbf1212.chunk.js.map": "/mondo-travel/static/js/453.5fbf1212.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74861dc2.css",
+    "static/js/main.ab0a05a1.js"
+  ]
+}
