@@ -28,3 +28,6 @@ Follow these simple steps:
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/janitha2000/mondo-travel.git
+
+### RUN
+ npm run dev
