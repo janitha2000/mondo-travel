@@ -1,41 +1,30 @@
 # Mondo Travel – Responsive Travel Agency Website
 
-## Project Overview
-**Mondo Travel** is a fully responsive travel agency website built with React/Next.js. It aims to inspire users to explore travel destinations worldwide with a modern, clean, and mobile-friendly interface.
-
-The website includes:
-- **Hero Section**: Full-screen hero with background image, catchy headline, tagline, and a call-to-action button.
-- **Popular Destinations**: Showcase 3–6 destinations with images, descriptions, and booking buttons.
-- **Packages/Services**: Highlight travel packages like Adventure Trips, Family Tours, Honeymoon Packages.
-- **Testimonials**: Display 2–3 customer reviews with profile images and feedback.
-- **Contact Section**: Simple contact form with name, email, message box, and submit button.
+## 👤 Developer
+**janeetha chavani**
 
 ---
 
-## Features
-- Fully **responsive** for mobile, tablet, and desktop
-- Modern travel-themed colors: sky blue, ocean green, sand beige, and white
-- Smooth scrolling navigation
-- Hover effects on buttons, images, and cards
-- Optional scroll animations for enhanced user experience
-- Clean, professional typography using Google Fonts (**Poppins**, **Montserrat**)
+## 📌 Project Description
+Mondo Travel is a modern, responsive travel agency website designed to inspire users to explore global travel destinations.  
+The website includes a hero section, featured destinations, services, customer reviews, a contact page, and a fully responsive layout optimized for all devices.
 
 ---
 
-## Technologies Used
-- **React / Next.js**
-- **Tailwind CSS**
+## 🛠️ Technologies Used
+- **React.js**
+- **JavaScript (ES6+)**
+- **HTML5**
+- **CSS3 / Tailwind CSS**
+- **AOS (Animate On Scroll)**
 - **React Icons**
-- HTML, CSS, JavaScript
-- Optional: **Vercel** for deployment
 
 ---
 
-## Getting Started
+## 🖥️ How to Run the Project Locally
 
-### Prerequisites
-Ensure **Node.js** and **npm** are installed:
+Follow these simple steps:
 
+### 1️⃣ Clone the repository
 ```bash
-node -v
-npm -v
+git clone https://github.com/janitha2000/mondo-travel.git
